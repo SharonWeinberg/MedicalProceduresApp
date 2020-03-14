@@ -13,7 +13,7 @@ Our content is reviewed by consultant physicians before publication to the app.
 Members of our core team include :
  
 ###  Dr. Sharon Esther Weinbeg MBBS, MRCP, BA, CILT.
-Core medical trainee in south Wales. 
+Core medical trainee in south Wales
 
 Project lead
 
@@ -26,15 +26,15 @@ Core surgical trainee in south Wales.
 
 Editor and format manager of App content
 
-App and website programmer and designer.
+App and website programmer and designer
 
 ###  Dr. Oliver Graham Davies BMBS MRCP
-Core medical trainee in south Wales. 
+Core medical trainee in south Wales
 
 Author of multiple chapters
 
 ###  Dr. Rhian Price-Davies MBBCh MRCP PGC.T
-Radiology trainee in south Wales. 
+Radiology trainee in south Wales
 
 Author of multiple chapters
 
