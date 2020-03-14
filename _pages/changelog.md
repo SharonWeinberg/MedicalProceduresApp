@@ -28,7 +28,7 @@ It is now mostly bug free and helpful enough for people to want to keep it on th
 
 <br>
 
-# **Version 0.31**
+# **Version 0.20**
 This is the first release of our app. It is now functional as a Web-App
 
 **We can't wait to share it with you !!**
